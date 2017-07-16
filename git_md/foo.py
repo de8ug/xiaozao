@@ -6,6 +6,8 @@ def test():
 
 
 def alex():
+    with open('config-dev.txt') as f:
+        pass
     print('aaa')
     print('bbb')
 
