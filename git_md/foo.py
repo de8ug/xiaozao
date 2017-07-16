@@ -8,3 +8,7 @@ def test():
 def alex():
     print('aaa')
     print('bbb')
+
+def alex2():
+    print('22aaa')
+    print('222bbb')
